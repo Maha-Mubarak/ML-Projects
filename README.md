@@ -17,6 +17,7 @@ The analysis emphasizes early detection and operational alert quality rather tha
 **Topics:** streaming anomaly detection, time-series analysis, imbalanced data, threshold selection, alert latency, operational evaluation
 
 ### Deep Learning-Based Detection of Abnormal Wireless Activity
+Deep Learning-Based Detection of Abnormal Signals in Spectrogram Data Using ResNet18.pdf
 
 This project treats wireless-spectrum monitoring as an image-classification problem. A pretrained ResNet18 model was fine-tuned on 85,500 LTE/5G spectrogram samples to distinguish normal signals from tone, chirp, and pulse anomalies.
 
