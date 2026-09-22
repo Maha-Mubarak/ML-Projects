@@ -8,6 +8,8 @@ The projects focus not only on model performance, but also on practical question
 
 ### Real-Time Anomaly Detection in Road-Traffic Sensor Data
 
+Anomaly Detection in Road Traffic Sensor Data_NAB.pdf
+
 This project evaluates two streaming anomaly-detection methods—Hierarchical Temporal Memory (HTM) and Random Cut Forest (RCF)—using the Numenta Anomaly Benchmark traffic dataset.
 
 The analysis emphasizes early detection and operational alert quality rather than accuracy alone. Models are compared using latency-aware NAB scoring, precision, recall, F1, ROC-AUC, PR-AUC, time-to-detect, and false-alarm behavior. On a representative traffic series, HTM detected all four anomaly windows and achieved an F1 score of 0.727, while RCF generated fewer false alarms but missed one event.
