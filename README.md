@@ -54,19 +54,7 @@ The evaluation goes beyond overall accuracy by examining per-class precision, re
 
 This repository currently serves as a report-based portfolio. The reports contain the project objectives, methods, experiments, results, limitations, and future directions. Some projects were completed as coursework, so the repository does not yet include every dataset, notebook, trained model, or environment configuration used during development.
 
-## Planned Improvements
 
-The next stage is to move each major project into its own repository. Each project repository is expected to include, where redistribution is permitted:
-
-- Source code and cleaned notebooks
-- Dataset descriptions and links to the original sources
-- Dependency and environment files
-- Clear setup and execution instructions
-- Model-training and evaluation workflows
-- Results, figures, and saved configuration files
-- Limitations, reproducibility notes, and proposed extensions
-
-Separating the projects will make their code, dependencies, datasets, and documentation easier to navigate and reproduce while keeping this repository as a high-level portfolio index.
 
 ## Author
 
