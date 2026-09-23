@@ -59,6 +59,5 @@ The evaluation goes beyond overall accuracy by examining per-class precision, re
 **Maha Mubarak**  
 Master of Engineering candidate in Computer Engineering, Polytechnique Montréal
 
-- [GitHub](https://github.com/Maha-Mubarak)
 - [LinkedIn](https://www.linkedin.com/in/maha-mubarak-mcgill2023)
 
