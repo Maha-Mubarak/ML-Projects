@@ -50,9 +50,7 @@ The evaluation goes beyond overall accuracy by examining per-class precision, re
 - OMNeT++, Veins, and SUMO for vehicular-network simulation
 - Technical reporting, visualization, and critical analysis of model limitations
 
-## Current Repository Status
 
-This repository currently serves as a report-based portfolio. The reports contain the project objectives, methods, experiments, results, limitations, and future directions. Some projects were completed as coursework, so the repository does not yet include every dataset, notebook, trained model, or environment configuration used during development.
 
 
 
